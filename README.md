@@ -1,2 +1,6 @@
-# atividade-versionamento-senai
- Repositório criado para solução da atividade da UC de Versionamento do curso de Programador FrontEnd do Senai
+#04a - Atividade 1 - Criação e unificação de um repositório remoto para controle de versionamento de códigos-fonte
+
+##Descrição:
+
+Criação e unificação de um repositório remoto para controle de versionamento de códigos-fonte
+ 
